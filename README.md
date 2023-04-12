@@ -1,2 +1,2 @@
-# godot_dataclasses
-Dataclasses for your classes in Godot 4
+# Godantic
+Dataclasses and serializers for your classes in Godot 4
